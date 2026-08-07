@@ -1,3 +1,12 @@
+---
+id: v2
+title: V2
+tags: []
+methods: []
+datasets: []
+summary: Live working copy of the simulator, promoted out of the much larger iterative
+last_updated: '2026-08-04'
+---
 # DT → GMV ROI Simulator — Production v2
 
 Live working copy of the simulator, promoted out of the much larger iterative
