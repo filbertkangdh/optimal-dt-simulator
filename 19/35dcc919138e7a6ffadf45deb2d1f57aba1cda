@@ -1,0 +1,66 @@
+dt_gmv_simulator.html
+  s_87cb764060ecdc::t_8054be5d71ec67 374
+  s_81f0940cf7d525::t_b527ee0dfe3f8d 446
+  s_9a7625a450102c::t_625e1d30437f34 489
+  s_14ca3f55a5c5a0::t_27f6e8f97337d3 527
+  s_87cb764060ecdc::t_0f25465718a729 371-373
+  s_9a7625a450102c::t_7c33fcc3d3c3da 486-488
+  s_9a7625a450102c::t_313950a2cd3955 490-492
+  s_14ca3f55a5c5a0::t_ccfc9b6cf54852 528-530
+dt_gmv_simulator_template.html
+  s_152bba5d0aad99::t_2028c8a431b394 810
+  s_9a7625a450102c::t_14677ad2e634ce 324-325,332-333
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "1935dcc919138e7a6ffadf45deb2d1f57aba1cda",
+  "prompts": {},
+  "humans": {
+    "h_d031b897a4f640": {
+      "author": "Filbert Kang <filbert.kang@foodpanda.com>"
+    }
+  },
+  "sessions": {
+    "s_14ca3f55a5c5a0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "84917ba2-34db-47e2-90e7-33ef39580bd6",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Filbert Kang <filbert.kang@foodpanda.com>"
+    },
+    "s_152bba5d0aad99": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0fdca238-34b3-4c40-b2d2-2cb81af1da5e",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Filbert Kang <filbert.kang@foodpanda.com>"
+    },
+    "s_81f0940cf7d525": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0bdd2a7a-58d0-42db-ad8c-05d8c5c8aa3f",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Filbert Kang <filbert.kang@foodpanda.com>"
+    },
+    "s_87cb764060ecdc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f7c72c55-f41c-404a-8a79-5fef7a10a554",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Filbert Kang <filbert.kang@foodpanda.com>"
+    },
+    "s_9a7625a450102c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "99ab300f-e8d0-480b-943a-ae42def12fc7",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Filbert Kang <filbert.kang@foodpanda.com>"
+    }
+  }
+}
