@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "1d023bd8048bf3869d0e46e5b40ebebb05c90c6e",
+  "prompts": {},
+  "humans": {
+    "h_d031b897a4f640": {
+      "author": "Filbert Kang <filbert.kang@foodpanda.com>"
+    }
+  }
+}
