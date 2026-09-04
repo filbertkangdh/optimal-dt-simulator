@@ -1,0 +1,156 @@
+country_name,city_name,tier
+Austria,Wien,1
+Austria,Graz,2
+Austria,Innsbruck,2
+Austria,Klagenfurt,2
+Austria,Linz,2
+Austria,Salzburg,2
+Austria,Villach,2
+Bangladesh,Dhaka,1
+Bangladesh,Chittagong,2
+Bangladesh,Sylhet,2
+Cambodia,Phnom penh,1
+Cambodia,Siem reap,2
+Cambodia,Sihanoukville,2
+Czech Republic,Praha,1
+Czech Republic,Brno,2
+Czech Republic,Ceske budejovice,2
+Czech Republic,Liberec,2
+Czech Republic,Ostrava,2
+Czech Republic,Plzen,2
+Denmark,Copenhagen,1
+Denmark,Aalborg,2
+Denmark,Aarhus,2
+Denmark,Odense,2
+Finland,Helsinki,1
+Finland,Jyvaskyla,2
+Finland,Oulu,2
+Finland,Tampere,2
+Finland,Turku,2
+Hong Kong,Hong kong,1
+Hungary,Budapest,1
+Hungary,Debrecen,2
+Hungary,Gyor,2
+Hungary,Pecs,2
+Hungary,Szeged,2
+Hungary,Szekesfehervar,2
+Laos,Vientiane capital,1
+Laos,Luang prabang,2
+Malaysia,Klang valley,1
+Malaysia,Johor,2
+Malaysia,Penang,2
+Malaysia,Sabah,2
+Myanmar,Yangon,1
+Myanmar,Mandalay,2
+Norway,Oslo,1
+Norway,Bergen,2
+Norway,Stavanger,2
+Norway,Trondheim,2
+Pakistan,Karachi,1
+Pakistan,Islamabad,2
+Pakistan,Lahore,2
+Philippines,Manila,1
+Philippines,Cebu,2
+Philippines,Davao,2
+Philippines,South mm,2
+Singapore,Singapore,1
+Slovakia,Bratislava,1
+Slovakia,Kosice,1
+Slovakia,Nitra,2
+Slovakia,Poprad,2
+Slovakia,Presov,2
+Slovakia,Zilina,2
+Sweden,Stockholm,1
+Sweden,Goteborg,2
+Sweden,Malmo,2
+Sweden,Uppsala,2
+Taiwan,Taipei,1
+Taiwan,Kaohsiung,2
+Taiwan,Taichung,2
+Taiwan,Taoyuan,2
+Thailand,Bangkok,1
+Thailand,Chiang mai,2
+Thailand,Phuket,2
+Thailand,Saraburi,2
+Turkey,Istanbul od,1
+Turkey,Ankara od,2
+Turkey,Izmir od,2
+Turkey,Adana od,3
+Turkey,Antalya od,3
+Turkey,Bursa od,3
+Turkey,Denizli od,3
+Turkey,Eskisehir od,3
+Turkey,Gaziantep od,3
+Turkey,Kayseri od,3
+Turkey,Kocaeli od,3
+Turkey,Konya od,3
+Turkey,Mersin od,3
+Turkey,Sakarya od,3
+Turkey,Samsun od,3
+Turkey,Afyonkarahisar od,4
+Turkey,Aydin od,4
+Turkey,Balikesir od,4
+Turkey,Canakkale od,3
+Turkey,Diyarbakir od,4
+Turkey,Edirne od,3
+Turkey,Giresun od,3
+Turkey,Hatay od,3
+Turkey,Isparta od,3
+Turkey,Kahramanmaras od,4
+Turkey,KKTC,4
+Turkey,Manisa od,3
+Turkey,Mugla od,4
+Turkey,Ordu od,3
+Turkey,Tekirdag od,4
+Turkey,Tokat od,3
+Turkey,Trabzon od,3
+Turkey,Yalova od,3
+Turkey,Aksaray od,3
+Turkey,Batman od,3
+Turkey,Bolu od,3
+Turkey,Burdur od,5
+Turkey,Corum od,3
+Turkey,Duzce od,5
+Turkey,Elazig od,5
+Turkey,Erzurum od,3
+Turkey,Karabuk od,5
+Turkey,Kirklareli od,5
+Turkey,Kutahya od,3
+Turkey,Malatya od,3
+Turkey,Mardin od,3
+Turkey,Nevsehir od,5
+Turkey,Nigde od,5
+Turkey,Osmaniye od,5
+Turkey,Rize od,3
+Turkey,Sivas od,3
+Turkey,Usak od,3
+Turkey,Van od,3
+Turkey,Zonguldak od,3
+Turkey,Adiyaman od,6
+Turkey,Agri od,6
+Turkey,Amasya od,6
+Turkey,Ardahan od,6
+Turkey,Artvin od,6
+Turkey,Bartin od,6
+Turkey,Bayburt od,6
+Turkey,Bilecik od,6
+Turkey,Bingol od,6
+Turkey,Bitlis od,6
+Turkey,Cankiri od,6
+Turkey,Erzincan od,6
+Turkey,Gumushane od,6
+Turkey,Hakkari od,6
+Turkey,Igdir od,6
+Turkey,Karaman od,6
+Turkey,Kars od,6
+Turkey,Kastamonu od,6
+Turkey,Kilis od,6
+Turkey,Kirikkale od,6
+Turkey,Kirsehir od,6
+Turkey,Mus od,6
+Turkey,Sanliurfa od,6
+Turkey,Siirt od,6
+Turkey,Sinop od,6
+Turkey,Sirnak od,6
+Turkey,Tunceli od,6
+Turkey,Yozgat od,6

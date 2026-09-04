@@ -1,0 +1,17 @@
+lg_country_code,country_name,dt_min,dt_max,late10_20_curve_type,late10_20_level,late10_20_intercept,late10_20_slope,late20_30_curve_type,late20_30_level,late20_30_intercept,late20_30_slope,lateAbove30_curve_type,lateAbove30_level,lateAbove30_intercept,lateAbove30_slope,bucket_reorder_rate_day30_onTime,bucket_reorder_rate_day30_late10_20,bucket_reorder_rate_day30_late20_30,bucket_reorder_rate_day30_lateAbove30
+at,Austria,24.213776,39.576449,log-linear,country,-35.393369,13.441921,log-linear,country,-20.722418,7.119071,exponential,country,-2.366712,0.110457,0.845269,0.830892,0.825401,0.821183
+bd,Bangladesh,29.224817,49.557934,log-linear,country,-30.931629,11.671473,log-linear,country,-24.220996,7.826004,exponential,country,-2.470467,0.094224,0.838172,0.829233,0.815904,0.800992
+cz,Czech Republic,26.194651,43.020312,log-linear,country,-42.662326,15.399955,log-linear,country,-22.184119,7.242207,exponential,country,-3.487056,0.116288,0.827731,0.82362,0.814677,0.8007299999999999
+hk,Hong Kong,25.490286,44.436435,log-linear,country,-33.656628,12.955744,log-linear,country,-24.745531,8.194589,exponential,country,-3.842105,0.141188,0.896022,0.889926,0.879913,0.867653
+hu,Hungary,27.330199,55.974974,log-linear,country,-22.029551,9.565205,log-linear,country,-22.723022,7.459404,exponential,country,-2.462184,0.090854,0.841235,0.8321689999999999,0.821859,0.809257
+kh,Cambodia,21.443234,41.35844,log-linear,country,-38.406721,14.17989,log-linear,country,-17.252855,5.882792,exponential,country,-4.304952,0.151614,0.89969,0.893125,0.883112,0.864764
+la,Laos,25.761955,56.333066,log-linear,country,-45.212423,16.093862,log-linear,country,-23.856386,7.664108,exponential,country,-3.059991,0.100185,0.910298,0.907778,0.896724,0.885006
+mm,Myanmar,26.41363,56.596826,log-linear,country,-50.235814,17.415912,log-linear,country,-32.698689,10.273774,exponential,country,-2.929243,0.101321,0.88646,0.87673,0.868529,0.854894
+my,Malaysia,28.305981,48.151565,log-linear,country,-25.489515,10.611782,log-linear,country,-23.140948,7.803248,exponential,country,-1.648364,0.08056,0.853151,0.846133,0.835296,0.82084
+no,Norway,25.959671,41.514014,log-linear,country,-45.426267,16.523857,log-linear,country,-24.627666,8.143079,exponential,country,-2.534429,0.100033,0.762841,0.747438,0.73289,0.7135819999999999
+ph,Philippines,24.267393,42.812831,log-linear,country,-33.193525,12.733418,log-linear,country,-22.197911,7.452102,exponential,country,-3.220353,0.12787,0.838205,0.832967,0.822551,0.803228
+pk,Pakistan,26.439489,38.755664,log-linear,country,-35.588539,13.30986,log-linear,country,-21.458459,7.16588,exponential,country,-2.885175,0.111507,0.8964030000000001,0.893638,0.886843,0.8769089999999999
+se,Sweden,23.820065,40.399159,log-linear,country,-45.553843,16.667069,log-linear,country,-17.894569,6.070092,exponential,country,-2.648924,0.099092,0.803269,0.790314,0.779488,0.761643
+sg,Singapore,29.949918,56.830369,log-linear,country,-13.031225,7.050981,log-linear,country,-16.3713,5.810809,exponential,country,-1.354699,0.067332,0.91774,0.915917,0.909501,0.896088
+t3,Turkey,22.234717,38.400614,log-linear,country,-20.961708,9.321883,log-linear,country,-13.243796,4.749247,exponential,country,-2.626991,0.096548,0.855621,0.846278,0.8396669999999999,0.8335440000000001
+tw,Taiwan,22.634869,40.392601,log-linear,population,-34.518206,13.129521,log-linear,population,-21.822578,7.257094,exponential,population,-2.789443,0.105938,0.940516,0.934945,0.926566,0.913878
